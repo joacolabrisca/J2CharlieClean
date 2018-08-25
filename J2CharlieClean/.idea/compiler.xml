@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="BigHugeLabsLib_main" target="1.8" />
+      <module name="BigHugeLabsLib_test" target="1.8" />
+      <module name="Data_main" target="1.8" />
+      <module name="Data_test" target="1.8" />
+      <module name="J2CharlieDic_main" target="1.8" />
+      <module name="J2CharlieDic_test" target="1.8" />
+      <module name="Model_main" target="1.8" />
+      <module name="Model_test" target="1.8" />
+      <module name="WikipediaAPI_main" target="1.8" />
+      <module name="WikipediaAPI_test" target="1.8" />
+      <module name="yandexservice_main" target="1.8" />
+      <module name="yandexservice_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

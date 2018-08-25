@@ -1,0 +1,11 @@
+[submodule "BigHugeLabsLib"]
+	path = BigHugeLabsLib
+	url = https://github.com/joacolabrisca/BigHugeLabsLib
+
+[submodule "WikipediaAPI"]
+	path = WikipediaAPI
+	url = https://github.com/ComisionJ1/WikipediaAPI
+	
+[submodule "yandexservice"]
+	path = yandexservice
+	url = https://github.com/tomasfelder/yandexservice

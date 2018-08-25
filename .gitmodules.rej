@@ -1,0 +1,9 @@
+diff a/.gitmodules b/.gitmodules	(rejected hunks)
+@@ -4,6 +4,7 @@
+ 	url = https://github.com/joacolabrisca/BigHugeLabsLib.git
+ 
+ [submodule "WikipediaAPI"]
++	path = WikipediaAPI	url = https://github.com/ComisionJ1/WikipediaAPI.git
+ [submodule "yandexservice"]
+ 	path = yandexservice
+ 	url = https://github.com/tomasfelder/yandexservice.git

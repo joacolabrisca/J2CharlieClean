@@ -1,0 +1,15 @@
+rootProject.name = 'Data'
+
+
+include 'Model'
+project(':Model').projectDir = new File('../Model')
+
+include 'BigHugeLabsLib'
+project(':BigHugeLabsLib').projectDir = new File('../ExternalSearchServices/BigHugeLabsLib')
+
+include 'yandexservice'
+project(':yandexservice').projectDir = new File('../ExternalSearchServices/yandexservice')
+
+include 'WikipediaAPI'
+project(':WikipediaAPI').projectDir = new File('../ExternalSearchServices/WikipediaAPI/Wikipedia')
+
