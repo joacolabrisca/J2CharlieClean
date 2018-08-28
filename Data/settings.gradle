@@ -1,6 +1,5 @@
 rootProject.name = 'Data'
 
-
 include 'Model'
 project(':Model').projectDir = new File('../Model')
 
