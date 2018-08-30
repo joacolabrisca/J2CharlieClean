@@ -3,18 +3,18 @@ package ErrorHandler;
 import DataEntities.DataSearchError.DataSearchError;
 import DataEntities.DataSearchError.DataSearchErrorFactory;
 import Entities.SearchError.SearchError;
-import Entities.SearchError.SearchErrorFactory;
 import ModelAdapters.DataSearchErrorAdapter.DataSearchErrorAdapter;
 import UseCases.ErrorHandler;
-
 import java.util.LinkedList;
 import java.util.List;
 
 class ErrorHandlerImpl implements ErrorHandler {
 
     private List<DataSearchError> searchErrorsList;
+    private DataSearchErrorAdapter dataSearchErrorAdapter;
 
-    public ErrorHandlerImpl(DataSearchErrorAdapter dataSearchErrorAdapter) {
+    ErrorHandlerImpl(DataSearchErrorAdapter dataSearchErrorAdapter) {
+        this.dataSearchErrorAdapter = dataSearchErrorAdapter;
         searchErrorsList = new LinkedList<>();
     }
 
@@ -31,9 +31,7 @@ class ErrorHandlerImpl implements ErrorHandler {
     private List<SearchError> adaptToModelSearchErrors() {
         List<SearchError> modelSearchErrorList = new LinkedList<>();
         for(DataSearchError dataSearchError : searchErrorsList) {
-            String searchErrorSource = dataSearchError.getErrorSource();
-            String searchErrorString = dataSearchError.getErrorText();
-            SearchError modelSearchError = SearchErrorFactory.makeSearchError(searchErrorSource, searchErrorString);
+            SearchError modelSearchError = dataSearchErrorAdapter.adaptToModelSearchError(dataSearchError);
             modelSearchErrorList.add(modelSearchError);
         }
         return modelSearchErrorList;

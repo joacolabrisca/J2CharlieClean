@@ -4,7 +4,6 @@ import Entities.SearchError.SearchError;
 import Entities.SearchResult.SearchResult;
 import UseCases.ErrorHandler;
 import UseCases.Repository;
-
 import java.util.List;
 
 class SearchTermUseCaseImpl implements SearchTermUseCase {
@@ -14,7 +13,7 @@ class SearchTermUseCaseImpl implements SearchTermUseCase {
     private SearchTermListener searchTermListener;
     private SearchErrorListener searchErrorListener;
 
-    public SearchTermUseCaseImpl(Repository repository, ErrorHandler errorHandler) {
+    SearchTermUseCaseImpl(Repository repository, ErrorHandler errorHandler) {
         this.repository = repository;
         this.errorHandler = errorHandler;
     }
@@ -52,5 +51,4 @@ class SearchTermUseCaseImpl implements SearchTermUseCase {
     public void setSearchErrorListener(SearchErrorListener searchErrorListener) {
         this.searchErrorListener = searchErrorListener;
     }
-
 }

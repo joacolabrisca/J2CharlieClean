@@ -7,14 +7,12 @@ class YandexServiceAdapter implements ExternalSearchService {
     private TranslatorService translatorService;
     private final String source = "YANDEX";
 
-    public YandexServiceAdapter(TranslatorService translatorService) {
+    YandexServiceAdapter(TranslatorService translatorService) {
         this.translatorService = translatorService;
     }
 
     public String searchTerm(String term) throws Exception {
-
         String SearchResult = translatorService.callCreateTranslatedWord(term);
-
         return SearchResult;
     }
 

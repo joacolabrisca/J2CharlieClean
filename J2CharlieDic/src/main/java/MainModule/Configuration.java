@@ -1,25 +1,19 @@
 package MainModule;
 
+import Controller.ViewController;
+import Controller.ViewControllerModule;
 import ErrorHandler.ErrorHandlerModule;
 import Repository.RepositoryModule;
-import SearchView.SearchViewModule;
 import UseCases.ErrorHandler;
 import UseCases.Repository;
-import UseCases.SearchTerm.SearchTermModule;
-import UseCases.SearchTerm.SearchTermUseCase;
 
 class Configuration {
 
     static void startApplication() {
-        SearchTermUseCase searchTermUseCase = getSearchTermUseCase();
-        SearchViewModule.getInstance().openDictionaryFrame(searchTermUseCase);
-    }
-
-    private static SearchTermUseCase getSearchTermUseCase() {
         Repository repository = getRepository();
         ErrorHandler errorHandler = getErrorHandler();
-        SearchTermUseCase searchTermUseCase = SearchTermModule.getInstance().getSearchTermUseCase(repository, errorHandler);
-        return searchTermUseCase;
+        ViewController viewController = ViewControllerModule.getInstance().getViewController(repository, errorHandler);
+        viewController.initView();
     }
 
     private static Repository getRepository() {

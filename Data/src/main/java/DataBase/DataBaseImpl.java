@@ -7,7 +7,6 @@ import java.sql.*;
 class DataBaseImpl implements DataBase {
 
     private final String MISSING_DATABASE_EXCEPTION = "ERROR: Missing database";
-    //private final String Url = "jdbc:sqlite:./dictionary.db"; DataBase/dictionary.db
     private final String Url = "jdbc:sqlite:./dictionary.db";
     private final String TERM = "term";
     private final String MEANING = "meaning";

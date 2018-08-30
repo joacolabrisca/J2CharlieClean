@@ -3,7 +3,6 @@ package ExternalSearchServices;
 import ayds.dictionary.WikipediaService.WikipediaService;
 import SearchService.SearchService;
 import com.example.yandex.service.TranslatorService;
-
 import java.util.LinkedList;
 import java.util.List;
 
@@ -11,8 +10,7 @@ class ExternalServicesFactoryImpl implements ExternalServicesFactory {
 
     List<ExternalSearchService> externalSearchServicesList;
 
-    public ExternalServicesFactoryImpl(WikipediaService wikipediaService, TranslatorService translatorService, SearchService searchService) {
-
+    ExternalServicesFactoryImpl(WikipediaService wikipediaService, TranslatorService translatorService, SearchService searchService) {
         externalSearchServicesList = new LinkedList<>();
 
         ExternalSearchService WikipediaAPI = new WikipediaAPIServiceAdapter(wikipediaService);
@@ -26,7 +24,6 @@ class ExternalServicesFactoryImpl implements ExternalServicesFactory {
     }
 
     public List<ExternalSearchService> getExternalSearchServices() {
-
         return externalSearchServicesList;
     }
 }

@@ -10,13 +10,10 @@ public class ExternalServicesSetModule {
     private static ExternalServicesSetModule instance;
 
     private ExternalServicesSetModule() {
-
         ExternalServicesFactory externalServicesFactory = new ExternalServicesFactoryImpl(
-
                 WikipediaServiceModule.getInstance().getWikipediaService(),
                 YandexModule.getInstance().getTranslatorService(),
                 SearchServiceModule.getInstance().getSearchService()
-
         );
         externalSearchServicesList = new ExternalServicesListImpl(externalServicesFactory);
     }

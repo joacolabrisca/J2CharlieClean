@@ -1,8 +1,6 @@
 package SearchView;
 
-import UseCases.SearchTerm.SearchTermUseCase;
-import ModelAdapters.ViewSearchResultAdapter.ViewSearchResultAdapterModule;
-import ModelAdapters.ViewSearchErrorAdapter.ViewSearchErrorAdapterModule;
+import Controller.ViewController;
 
 public class SearchViewModule {
 
@@ -16,10 +14,8 @@ public class SearchViewModule {
 
     private SearchViewModule() {}
 
-    public void openDictionaryFrame(SearchTermUseCase searchTermUseCase) {
-        SearchView searchView = new SearchView(
-                searchTermUseCase,
-                ViewSearchResultAdapterModule.getInstance().getViewSearchResultAdapter(),
-                ViewSearchErrorAdapterModule.getInstance().getViewSearchErrorAdapter());
+    public SearchView openDictionaryFrame(ViewController viewController) {
+        SearchView searchView = new SearchViewImpl(viewController);
+        return searchView;
     }
 }

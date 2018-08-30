@@ -6,7 +6,7 @@ class ExternalServicesListImpl implements ExternalSearchServicesList {
 
     private ExternalServicesFactory externalServicesFactory;
 
-    public ExternalServicesListImpl(ExternalServicesFactory externalServicesFactory) {
+    ExternalServicesListImpl(ExternalServicesFactory externalServicesFactory) {
         this.externalServicesFactory = externalServicesFactory;
     }
 
