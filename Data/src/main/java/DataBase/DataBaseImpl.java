@@ -2,12 +2,17 @@ package DataBase;
 
 import DataEntities.DataSearchResult.DataSearchResult;
 import DataEntities.DataSearchResult.DataSearchResultFactory;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
 import java.sql.*;
 
 class DataBaseImpl implements DataBase {
 
     private final String MISSING_DATABASE_EXCEPTION = "ERROR: Missing database";
-    private final String Url = "jdbc:sqlite:./dictionary.db";
+    private final String URL = "jdbc:sqlite:./../Data/dictionary.db";
+    private final String DATABASE_FILE_PATH = "../Data/dictionary.db";
+    private final String SQL_CREATE_DATABASE = "create table terms (id INTEGER PRIMARY KEY AUTOINCREMENT, term string, meaning string, source integer)";
     private final String TERM = "term";
     private final String MEANING = "meaning";
     private final String SOURCE = "source";
@@ -37,11 +42,33 @@ class DataBaseImpl implements DataBase {
     private Connection getConnection() {
         Connection connection = null;
         try {
-            connection = DriverManager.getConnection(Url);
+            if(!dataBseExists()) {
+                createNewDataBase();
+            }
+            connection = DriverManager.getConnection(URL);
         } catch(SQLException e) {
             e.printStackTrace();
         }
         return connection;
+    }
+
+    private boolean dataBseExists() {
+        Path dataBasePath = Paths.get(DATABASE_FILE_PATH);
+        boolean exists = Files.exists(dataBasePath);
+        return exists;
+    }
+
+    private void createNewDataBase() {
+        try {
+            Connection connection = DriverManager.getConnection(URL);
+            Statement statement = createStatement(connection);
+            statement.setQueryTimeout(QUERY_TIMEOUT);
+            statement.executeUpdate(SQL_CREATE_DATABASE);
+            closeStatement(statement);
+            closeConnection(connection);
+        } catch(SQLException e) {
+            e.printStackTrace();
+        }
     }
 
     private Statement createStatement(Connection connection) {

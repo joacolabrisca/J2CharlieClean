@@ -13,6 +13,7 @@ repositories {
 
 dependencies {
     testCompile group: 'junit', name: 'junit', version: '4.12'
+    compile 'org.xerial:sqlite-jdbc:3.21.0'
     compile project(':Model')
     compile project(':yandexservice')
     compile project(':WikipediaAPI')

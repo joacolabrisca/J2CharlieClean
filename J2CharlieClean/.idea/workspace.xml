@@ -70,23 +70,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Configuration.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../J2CharlieDic/src/main/java/MainModule/Configuration.java">
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Data/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ViewController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../J2CharlieDic/src/main/java/Controller/ViewController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            <state relative-caret-position="102">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -94,85 +82,86 @@
       <file leaf-file-name="ViewControllerImpl.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../J2CharlieDic/src/main/java/Controller/ViewControllerImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="27" column="61" lean-forward="true" selection-start-line="27" selection-start-column="61" selection-end-line="27" selection-end-column="61" />
+            <state relative-caret-position="238">
+              <caret line="88" selection-start-line="88" selection-end-line="88" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#3626#3627#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ViewControllerModule.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../J2CharlieDic/src/main/java/Controller/ViewControllerModule.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SearchView.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../J2CharlieDic/src/main/java/SearchView/SearchView.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SearchViewModule.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../J2CharlieDic/src/main/java/SearchView/SearchViewModule.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StringFormatHandler.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../J2CharlieDic/src/main/java/SearchView/StringFormatHandler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SearchViewImpl.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../J2CharlieDic/src/main/java/SearchView/SearchViewImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ViewSearchError.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../J2CharlieDic/src/main/java/ViewEntities/ViewSearchError/ViewSearchError.java">
+      <file leaf-file-name="DataBaseModule.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Data/src/main/java/DataBase/DataBaseModule.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ViewSearchResult.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../J2CharlieDic/src/main/java/ViewEntities/ViewSearchResult/ViewSearchResult.java">
+      <file leaf-file-name="DataBaseImpl.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../Data/src/main/java/DataBase/DataBaseImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+            <state relative-caret-position="155">
+              <caret line="12" column="28" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#3245#3246#0" expanded="true" />
+                <element signature="e#3283#3284#0" expanded="true" />
+              </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RepositoryImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Data/src/main/java/Repository/RepositoryImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SearchTermUseCaseImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Model/src/main/java/UseCases/SearchTerm/SearchTermUseCaseImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="104">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#891#892#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DriverManager.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/sql/DriverManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="461">
+              <caret line="269" selection-start-line="269" selection-end-line="269" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../J2CharlieDic/build.gradle">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="settings.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../J2CharlieDic/settings.gradle">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="settings.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Data/settings.gradle">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -188,6 +177,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>print</find>
+      <find>url</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -196,18 +186,52 @@
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
       <map>
+        <entry key="$PROJECT_DIR$/../Data" value="C:\Users\joaco\.gradle\wrapper\dists\gradle-4.4-bin\bgaq7vklkazwgxox0hdadxbvi\gradle-4.4" />
         <entry key="$PROJECT_DIR$" value="C:\Users\joaco\.gradle\wrapper\dists\gradle-4.4-bin\bgaq7vklkazwgxox0hdadxbvi\gradle-4.4" />
         <entry key="$PROJECT_DIR$/../J2CharlieDic" value="C:\Users\joaco\.gradle\wrapper\dists\gradle-4.4-bin\bgaq7vklkazwgxox0hdadxbvi\gradle-4.4" />
       </map>
     </option>
     <option name="myGradleVersions">
       <map>
+        <entry key="$PROJECT_DIR$/../Data" value="4.4" />
         <entry key="$PROJECT_DIR$" value="4.4" />
         <entry key="$PROJECT_DIR$/../J2CharlieDic" value="4.4" />
       </map>
     </option>
     <option name="availableProjects">
       <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="Data" />
+              <option name="path" value="$PROJECT_DIR$/../Data" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="Data" />
+                <option name="path" value="$PROJECT_DIR$/../Data" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":BigHugeLabsLib" />
+                <option name="path" value="$PROJECT_DIR$/../ExternalSearchServices/BigHugeLabsLib" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":Model" />
+                <option name="path" value="$PROJECT_DIR$/../Model" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":WikipediaAPI" />
+                <option name="path" value="$PROJECT_DIR$/../ExternalSearchServices/WikipediaAPI/Wikipedia" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":yandexservice" />
+                <option name="path" value="$PROJECT_DIR$/../ExternalSearchServices/yandexservice" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
         <entry>
           <key>
             <ExternalProjectPojo>
@@ -268,129 +292,139 @@
           <value>
             <list>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the components produced by project ':Data'. [incubating]" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
-                <option name="name" value=":Data:components" />
+                <option name="description" value="Displays the components produced by root project 'Data'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
+                <option name="name" value="components" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Assembles and tests this project and all projects that depend on it." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
-                <option name="name" value=":Data:buildDependents" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
+                <option name="name" value="buildDependents" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the sub-projects of project ':Data'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
-                <option name="name" value=":Data:projects" />
+                <option name="description" value="Displays the sub-projects of root project 'Data'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
+                <option name="name" value="projects" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Assembles main classes." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
-                <option name="name" value=":Data:classes" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
+                <option name="name" value="classes" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the dependent components of components in project ':Data'. [incubating]" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
-                <option name="name" value=":Data:dependentComponents" />
+                <option name="description" value="Displays the dependent components of components in root project 'Data'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
+                <option name="name" value="dependentComponents" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays all buildscript dependencies declared in project ':Data'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
-                <option name="name" value=":Data:buildEnvironment" />
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'Data'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
+                <option name="name" value="wrapper" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Assembles test classes." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
-                <option name="name" value=":Data:testClasses" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
+                <option name="name" value="testClasses" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Generates Javadoc API documentation for the main source code." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
-                <option name="name" value=":Data:javadoc" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
+                <option name="name" value="javadoc" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Assembles a jar archive containing the main classes." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
-                <option name="name" value=":Data:jar" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
+                <option name="name" value="jar" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the configuration model of project ':Data'. [incubating]" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
-                <option name="name" value=":Data:model" />
+                <option name="description" value="Displays the configuration model of root project 'Data'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
+                <option name="name" value="model" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Processes main resources." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
-                <option name="name" value=":Data:processResources" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
+                <option name="name" value="processResources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the tasks runnable from project ':Data'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
-                <option name="name" value=":Data:tasks" />
+                <option name="description" value="Displays the tasks runnable from root project 'Data' (some of the displayed tasks may belong to subprojects)." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
+                <option name="name" value="init" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Runs the unit tests." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
-                <option name="name" value=":Data:test" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
+                <option name="name" value="test" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Compiles main Java source." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
-                <option name="name" value=":Data:compileJava" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
+                <option name="name" value="compileJava" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the insight into a specific dependency in project ':Data'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
-                <option name="name" value=":Data:dependencyInsight" />
+                <option name="description" value="Displays the insight into a specific dependency in root project 'Data'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
+                <option name="name" value="dependencyInsight" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Runs all checks." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
-                <option name="name" value=":Data:check" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
+                <option name="name" value="check" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Assembles the outputs of this project." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
-                <option name="name" value=":Data:assemble" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
+                <option name="name" value="assemble" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Deletes the build directory." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
-                <option name="name" value=":Data:clean" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
+                <option name="name" value="clean" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Compiles test Java source." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
-                <option name="name" value=":Data:compileTestJava" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
+                <option name="name" value="compileTestJava" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays all dependencies declared in project ':Data'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
-                <option name="name" value=":Data:dependencies" />
+                <option name="description" value="Displays all dependencies declared in root project 'Data'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
+                <option name="name" value="dependencies" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Processes test resources." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
-                <option name="name" value=":Data:processTestResources" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
+                <option name="name" value="processTestResources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Displays a help message." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
-                <option name="name" value=":Data:help" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
+                <option name="name" value="help" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Assembles and tests this project." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
-                <option name="name" value=":Data:build" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
+                <option name="name" value="build" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Assembles and tests this project and all projects it depends on." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
-                <option name="name" value=":Data:buildNeeded" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
+                <option name="name" value="buildNeeded" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the properties of project ':Data'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
-                <option name="name" value=":Data:properties" />
+                <option name="description" value="Displays the properties of root project 'Data'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
+                <option name="name" value="properties" />
               </ExternalTaskPojo>
             </list>
           </value>
@@ -400,127 +434,127 @@
             <list>
               <ExternalTaskPojo>
                 <option name="description" value="Displays the components produced by project ':BigHugeLabsLib'. [incubating]" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":BigHugeLabsLib:components" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Assembles and tests this project and all projects that depend on it." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":BigHugeLabsLib:buildDependents" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Displays the sub-projects of project ':BigHugeLabsLib'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":BigHugeLabsLib:projects" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Assembles main classes." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":BigHugeLabsLib:classes" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Displays the dependent components of components in project ':BigHugeLabsLib'. [incubating]" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":BigHugeLabsLib:dependentComponents" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Displays all buildscript dependencies declared in project ':BigHugeLabsLib'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":BigHugeLabsLib:buildEnvironment" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Assembles test classes." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":BigHugeLabsLib:testClasses" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Generates Javadoc API documentation for the main source code." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":BigHugeLabsLib:javadoc" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Assembles a jar archive containing the main classes." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":BigHugeLabsLib:jar" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Displays the configuration model of project ':BigHugeLabsLib'. [incubating]" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":BigHugeLabsLib:model" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Processes main resources." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":BigHugeLabsLib:processResources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Displays the tasks runnable from project ':BigHugeLabsLib'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":BigHugeLabsLib:tasks" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Runs the unit tests." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":BigHugeLabsLib:test" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Compiles main Java source." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":BigHugeLabsLib:compileJava" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Displays the insight into a specific dependency in project ':BigHugeLabsLib'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":BigHugeLabsLib:dependencyInsight" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Runs all checks." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":BigHugeLabsLib:check" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Assembles the outputs of this project." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":BigHugeLabsLib:assemble" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Deletes the build directory." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":BigHugeLabsLib:clean" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Compiles test Java source." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":BigHugeLabsLib:compileTestJava" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Displays all dependencies declared in project ':BigHugeLabsLib'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":BigHugeLabsLib:dependencies" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Processes test resources." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":BigHugeLabsLib:processTestResources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Displays a help message." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":BigHugeLabsLib:help" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Assembles and tests this project." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":BigHugeLabsLib:build" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Assembles and tests this project and all projects it depends on." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":BigHugeLabsLib:buildNeeded" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Displays the properties of project ':BigHugeLabsLib'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":BigHugeLabsLib:properties" />
               </ExternalTaskPojo>
             </list>
@@ -531,127 +565,127 @@
             <list>
               <ExternalTaskPojo>
                 <option name="description" value="Displays the components produced by project ':WikipediaAPI'. [incubating]" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":WikipediaAPI:components" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Assembles and tests this project and all projects that depend on it." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":WikipediaAPI:buildDependents" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Displays the sub-projects of project ':WikipediaAPI'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":WikipediaAPI:projects" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Assembles main classes." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":WikipediaAPI:classes" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Displays the dependent components of components in project ':WikipediaAPI'. [incubating]" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":WikipediaAPI:dependentComponents" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Displays all buildscript dependencies declared in project ':WikipediaAPI'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":WikipediaAPI:buildEnvironment" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Assembles test classes." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":WikipediaAPI:testClasses" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Generates Javadoc API documentation for the main source code." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":WikipediaAPI:javadoc" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Assembles a jar archive containing the main classes." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":WikipediaAPI:jar" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Displays the configuration model of project ':WikipediaAPI'. [incubating]" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":WikipediaAPI:model" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Processes main resources." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":WikipediaAPI:processResources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Displays the tasks runnable from project ':WikipediaAPI'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":WikipediaAPI:tasks" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Runs the unit tests." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":WikipediaAPI:test" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Compiles main Java source." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":WikipediaAPI:compileJava" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Displays the insight into a specific dependency in project ':WikipediaAPI'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":WikipediaAPI:dependencyInsight" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Runs all checks." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":WikipediaAPI:check" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Assembles the outputs of this project." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":WikipediaAPI:assemble" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Deletes the build directory." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":WikipediaAPI:clean" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Compiles test Java source." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":WikipediaAPI:compileTestJava" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Displays all dependencies declared in project ':WikipediaAPI'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":WikipediaAPI:dependencies" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Processes test resources." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":WikipediaAPI:processTestResources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Displays a help message." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":WikipediaAPI:help" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Assembles and tests this project." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":WikipediaAPI:build" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Assembles and tests this project and all projects it depends on." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":WikipediaAPI:buildNeeded" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Displays the properties of project ':WikipediaAPI'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":WikipediaAPI:properties" />
               </ExternalTaskPojo>
             </list>
@@ -662,127 +696,127 @@
             <list>
               <ExternalTaskPojo>
                 <option name="description" value="Displays the components produced by project ':yandexservice'. [incubating]" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":yandexservice:components" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Assembles and tests this project and all projects that depend on it." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":yandexservice:buildDependents" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Displays the sub-projects of project ':yandexservice'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":yandexservice:projects" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Assembles main classes." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":yandexservice:classes" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Displays the dependent components of components in project ':yandexservice'. [incubating]" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":yandexservice:dependentComponents" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Displays all buildscript dependencies declared in project ':yandexservice'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":yandexservice:buildEnvironment" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Assembles test classes." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":yandexservice:testClasses" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Generates Javadoc API documentation for the main source code." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":yandexservice:javadoc" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Assembles a jar archive containing the main classes." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":yandexservice:jar" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Displays the configuration model of project ':yandexservice'. [incubating]" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":yandexservice:model" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Processes main resources." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":yandexservice:processResources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Displays the tasks runnable from project ':yandexservice'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":yandexservice:tasks" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Runs the unit tests." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":yandexservice:test" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Compiles main Java source." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":yandexservice:compileJava" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Displays the insight into a specific dependency in project ':yandexservice'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":yandexservice:dependencyInsight" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Runs all checks." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":yandexservice:check" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Assembles the outputs of this project." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":yandexservice:assemble" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Deletes the build directory." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":yandexservice:clean" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Compiles test Java source." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":yandexservice:compileTestJava" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Displays all dependencies declared in project ':yandexservice'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":yandexservice:dependencies" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Processes test resources." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":yandexservice:processTestResources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Displays a help message." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":yandexservice:help" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Assembles and tests this project." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":yandexservice:build" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Assembles and tests this project and all projects it depends on." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":yandexservice:buildNeeded" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Displays the properties of project ':yandexservice'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":yandexservice:properties" />
               </ExternalTaskPojo>
             </list>
@@ -1000,127 +1034,127 @@
             <list>
               <ExternalTaskPojo>
                 <option name="description" value="Displays the components produced by project ':Model'. [incubating]" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":Model:components" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Assembles and tests this project and all projects that depend on it." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":Model:buildDependents" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Displays the sub-projects of project ':Model'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":Model:projects" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Assembles main classes." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":Model:classes" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Displays the dependent components of components in project ':Model'. [incubating]" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":Model:dependentComponents" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Displays all buildscript dependencies declared in project ':Model'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":Model:buildEnvironment" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Assembles test classes." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":Model:testClasses" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Generates Javadoc API documentation for the main source code." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":Model:javadoc" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Assembles a jar archive containing the main classes." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":Model:jar" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Displays the configuration model of project ':Model'. [incubating]" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":Model:model" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Processes main resources." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":Model:processResources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Displays the tasks runnable from project ':Model'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":Model:tasks" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Runs the unit tests." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":Model:test" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Compiles main Java source." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":Model:compileJava" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Displays the insight into a specific dependency in project ':Model'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":Model:dependencyInsight" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Runs all checks." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":Model:check" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Assembles the outputs of this project." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":Model:assemble" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Deletes the build directory." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":Model:clean" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Compiles test Java source." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":Model:compileTestJava" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Displays all dependencies declared in project ':Model'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":Model:dependencies" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Processes test resources." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":Model:processTestResources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Displays a help message." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":Model:help" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Assembles and tests this project." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":Model:build" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Assembles and tests this project and all projects it depends on." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":Model:buildNeeded" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Displays the properties of project ':Model'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../J2CharlieDic" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../Data" />
                 <option name="name" value=":Model:properties" />
               </ExternalTaskPojo>
             </list>
@@ -1130,9 +1164,8 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$/../Data" value="18406799875383" />
         <entry key="$PROJECT_DIR$/../Data/.gradle" value="0" />
-        <entry key="$PROJECT_DIR$/../Data/build.gradle" value="3286016426" />
+        <entry key="$PROJECT_DIR$/../Data/build.gradle" value="1079646900" />
         <entry key="$PROJECT_DIR$/../Data/gradle/wrapper/gradle-wrapper.properties" value="1741342742" />
         <entry key="$PROJECT_DIR$/../Data/settings.gradle" value="958002711" />
         <entry key="$PROJECT_DIR$/../ExternalSearchServices/BigHugeLabsLib/.gradle" value="0" />
@@ -1143,7 +1176,7 @@
         <entry key="$PROJECT_DIR$" value="3070446583924" />
         <entry key="$PROJECT_DIR$/.gradle" value="0" />
         <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="1741342742" />
-        <entry key="$PROJECT_DIR$/../J2CharlieDic" value="23012471251556" />
+        <entry key="$PROJECT_DIR$/../J2CharlieDic" value="23013246402120" />
         <entry key="$PROJECT_DIR$/../J2CharlieDic/.gradle" value="0" />
         <entry key="$PROJECT_DIR$/../J2CharlieDic/build.gradle" value="1948883359" />
         <entry key="$PROJECT_DIR$/../J2CharlieDic/gradle/wrapper/gradle-wrapper.properties" value="1741342742" />
@@ -1157,6 +1190,132 @@
     </option>
     <option name="projectBuildClasspath">
       <map>
+        <entry key="$PROJECT_DIR$/../Data">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$/../Data">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$/../Data" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/../ExternalSearchServices/BigHugeLabsLib">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$/../ExternalSearchServices/BigHugeLabsLib" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/../ExternalSearchServices/WikipediaAPI/Wikipedia">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$/../ExternalSearchServices/WikipediaAPI/Wikipedia" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/../ExternalSearchServices/yandexservice">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$/../ExternalSearchServices/yandexservice" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/../Model">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$/../Model" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="Data" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/ant-1.9.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/ant-launcher-1.9.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-base-services-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-base-services-groovy-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-build-cache-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-build-option-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-cli-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-core-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-core-api-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-docs-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-installation-beacon-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-jvm-services-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-kotlin-dsl-0.13.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-kotlin-dsl-tooling-builders-0.13.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-kotlin-dsl-tooling-models-0.13.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-launcher-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-logging-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-messaging-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-model-core-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-model-groovy-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-native-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-persistent-cache-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-process-services-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-resources-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-runtime-api-info-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-tooling-api-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-wrapper-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/groovy-all-2.4.12.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-announce-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-antlr-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-build-cache-http-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-build-comparison-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-build-init-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-code-quality-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-composite-builds-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-dependency-management-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-diagnostics-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-ear-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-ide-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-ide-native-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-ide-play-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-ivy-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-jacoco-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-javascript-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-language-groovy-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-language-java-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-language-jvm-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-language-native-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-language-scala-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-maven-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-osgi-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-platform-base-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-platform-jvm-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-platform-native-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-platform-play-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-plugin-development-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-plugin-use-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-plugins-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-publish-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-reporting-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-resources-gcs-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-resources-http-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-resources-s3-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-resources-sftp-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-scala-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-signing-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-test-kit-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-testing-base-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-testing-jvm-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-testing-native-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-tooling-api-builders-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-version-control-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-workers-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$PROJECT_DIR$/../Data/buildSrc/src/main/java" />
+                  <option value="$PROJECT_DIR$/../Data/buildSrc/src/main/groovy" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$">
           <value>
             <ExternalProjectBuildClasspathPojo>
@@ -1414,10 +1573,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/../J2CharlieDic/build.gradle" />
-        <option value="$PROJECT_DIR$/../Data/build.gradle" />
         <option value="$PROJECT_DIR$/../J2CharlieDic/settings.gradle" />
         <option value="$PROJECT_DIR$/../Data/settings.gradle" />
-        <option value="$PROJECT_DIR$/../Data/src/main/java/DataBase/DataBaseImpl.java" />
         <option value="$PROJECT_DIR$/../Data/src/main/java/ErrorHandler/ErrorHandlerModule.java" />
         <option value="$PROJECT_DIR$/../Data/src/main/java/ModelAdapters/DataSearchErrorAdapter/DataSearchErrorAdapterImpl.java" />
         <option value="$PROJECT_DIR$/../Data/src/main/java/DataBase/MissingDataBaseException.java" />
@@ -1444,10 +1601,12 @@
         <option value="$PROJECT_DIR$/../J2CharlieDic/src/main/java/SearchView/SearchViewImpl.java" />
         <option value="$PROJECT_DIR$/../J2CharlieDic/src/main/java/Controller/ViewController.java" />
         <option value="$PROJECT_DIR$/../J2CharlieDic/src/main/java/Controller/ViewControllerImpl.java" />
+        <option value="$PROJECT_DIR$/../Data/build.gradle" />
+        <option value="$PROJECT_DIR$/../Data/src/main/java/DataBase/DataBaseImpl.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="399" />
     <option name="y" value="85" />
     <option name="width" value="660" />
@@ -1459,23 +1618,39 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="J2CharlieClean" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Data" type="462c0819:PsiDirectoryNode" />
+              <item name="Data" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
               <item name="J2CharlieClean" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Data" type="462c0819:PsiDirectoryNode" />
+              <item name="Data" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="J2CharlieClean" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Data" type="462c0819:PsiDirectoryNode" />
+              <item name="Data" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="J2CharlieClean" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Data" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="J2CharlieClean" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Data" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="DataBase" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="J2CharlieClean" type="b2602c69:ProjectViewProjectNode" />
@@ -1498,31 +1673,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="J2CharlieClean" type="b2602c69:ProjectViewProjectNode" />
-              <item name="J2CharlieDic" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="J2CharlieClean" type="b2602c69:ProjectViewProjectNode" />
-              <item name="J2CharlieDic" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="GUI" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="J2CharlieClean" type="b2602c69:ProjectViewProjectNode" />
-              <item name="J2CharlieDic" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="GUI" type="462c0819:PsiDirectoryNode" />
-              <item name="Window" type="e9f4de52:FormNode" />
             </path>
             <path>
               <item name="J2CharlieClean" type="b2602c69:ProjectViewProjectNode" />
@@ -1531,48 +1681,6 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="MainModule" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="J2CharlieClean" type="b2602c69:ProjectViewProjectNode" />
-              <item name="J2CharlieDic" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ModelAdapters" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="J2CharlieClean" type="b2602c69:ProjectViewProjectNode" />
-              <item name="J2CharlieDic" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="SearchView" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="J2CharlieClean" type="b2602c69:ProjectViewProjectNode" />
-              <item name="J2CharlieDic" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ViewEntities" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="J2CharlieClean" type="b2602c69:ProjectViewProjectNode" />
-              <item name="J2CharlieDic" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ViewEntities" type="462c0819:PsiDirectoryNode" />
-              <item name="ViewSearchError" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="J2CharlieClean" type="b2602c69:ProjectViewProjectNode" />
-              <item name="J2CharlieDic" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ViewEntities" type="462c0819:PsiDirectoryNode" />
-              <item name="ViewSearchResult" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="J2CharlieClean" type="b2602c69:ProjectViewProjectNode" />
@@ -1600,7 +1708,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="AndroidView" />
     </panes>
@@ -1756,27 +1863,27 @@
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5034722" side_tool="true" weight="0.26149803" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.3923611" side_tool="true" visible="true" weight="0.29040736" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4965278" visible="true" weight="0.20367937" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.6076389" visible="true" weight="0.29040736" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29305556" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29305556" />
+      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.5486111" weight="0.3298292" />
       <window_info anchor="right" id="Gradle" order="3" weight="0.1423611" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49861112" weight="0.39947438" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.5486111" weight="0.3298292" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49930555" weight="0.3298292" />
     </layout>
   </component>
@@ -1784,44 +1891,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../J2CharlieDic/src/main/java/ModelAdapters/ViewSearchErrorAdapter/ViewSearchErrorAdapterImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../J2CharlieDic/src/main/java/ModelAdapters/ViewSearchErrorAdapter/ViewSearchErrorAdapterModule.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../J2CharlieDic/src/main/java/ModelAdapters/ViewSearchResultAdapter/ViewSearchResultAdapterModule.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../J2CharlieDic/src/main/java/ViewEntities/ViewSearchError/ViewSearchErrorImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../J2CharlieDic/src/main/java/ViewEntities/ViewSearchError/ViewSearchErrorFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="27" lean-forward="true" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../J2CharlieDic/src/main/java/ViewEntities/ViewSearchResult/ViewSearchResultImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -1885,46 +1954,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../J2CharlieDic/src/main/java/SearchView/ViewController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../J2CharlieDic/src/main/java/SearchView/ViewControllerModule.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../J2CharlieDic/src/main/java/SearchView/ViewController.java" />
+    <entry file="file://$PROJECT_DIR$/../J2CharlieDic/src/main/java/SearchView/ViewControllerModule.java" />
     <entry file="file://$PROJECT_DIR$/../J2CharlieDic/src/main/java/ModelAdapters/ViewSearchResultAdapter/ViewSearchResultAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="80" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="80" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../J2CharlieDic/src/main/java/ModelAdapters/ViewSearchResultAdapter/ViewSearchResultAdapterImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Data/src/main/java/DataBase/DataBaseImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
           <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
         </state>
       </provider>
@@ -1943,20 +1984,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Data/src/main/java/DataBase/DataBaseModule.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../Data/src/main/java/ExternalSearchServices/BigHugeLabsLibServiceAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1985,9 +2016,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2012,13 +2040,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Data/src/main/java/Repository/RepositoryImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="15" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="15" />
         </state>
       </provider>
     </entry>
@@ -2050,9 +2071,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2070,23 +2088,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Model/src/main/java/UseCases/SearchTerm/SearchTermUseCaseImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../J2CharlieDic/src/main/java/ModelAdapters/ViewSearchErrorAdapter/ViewSearchErrorAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2094,16 +2099,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../J2CharlieDic/src/main/java/GUI/Window.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-258">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2124,19 +2119,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../J2CharlieDic/src/main/java/Controller/ViewControllerImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="27" column="61" lean-forward="true" selection-start-line="27" selection-start-column="61" selection-end-line="27" selection-end-column="61" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../J2CharlieDic/src/main/java/Controller/ViewControllerModule.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
+        <state relative-caret-position="68">
           <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -2146,7 +2131,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../J2CharlieDic/src/main/java/SearchView/SearchView.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
+        <state relative-caret-position="68">
           <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -2184,10 +2169,94 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../J2CharlieDic/src/main/java/SearchView/SearchViewImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
+        <state relative-caret-position="68">
           <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../J2CharlieDic/src/main/java/GUI/Window.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../J2CharlieDic/build.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../J2CharlieDic/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Data/src/main/java/DataBase/DataBaseModule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Data/src/main/java/Repository/RepositoryImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Model/src/main/java/UseCases/SearchTerm/SearchTermUseCaseImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#891#892#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../J2CharlieDic/src/main/java/Controller/ViewControllerImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="88" selection-start-line="88" selection-end-line="88" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3626#3627#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/sql/DriverManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="269" selection-start-line="269" selection-end-line="269" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Data/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Data/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Data/src/main/java/DataBase/DataBaseImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3245#3246#0" expanded="true" />
+            <element signature="e#3283#3284#0" expanded="true" />
           </folding>
         </state>
       </provider>

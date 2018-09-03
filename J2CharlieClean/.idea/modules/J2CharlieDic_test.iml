@@ -13,6 +13,7 @@
     <orderEntry type="module" module-name="Data_main" />
     <orderEntry type="module" module-name="Model_main" />
     <orderEntry type="library" name="Gradle: junit:junit:4.12" level="project" />
+    <orderEntry type="library" name="Gradle: org.xerial:sqlite-jdbc:3.21.0" level="project" />
     <orderEntry type="module" module-name="yandexservice_main" />
     <orderEntry type="module" module-name="WikipediaAPI_main" />
     <orderEntry type="module" module-name="BigHugeLabsLib_main" />
